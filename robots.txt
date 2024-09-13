@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sackmaby.github.io/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/app/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/assets/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/css/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/includes/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/item/sitemap.html.gz
+Sitemap: https://sackmaby.github.io/src/sitemap.html.gz
